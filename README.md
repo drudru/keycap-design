@@ -39,7 +39,7 @@ This is a nice short tutorial on how to use the dakota felder blender templates 
 https://github.com/hineybush/CherryMX
 These are not in blender, so the software
 to read these in is $$. A lot of people point at this for renders, so I link to it here.
-hineybush - https://github.com/hineybush/ -  he is pretty well known in the geekhack keyboard community
+hineybush - https://github.com/hineybush/ - is pretty well known in the geekhack keyboard community
 
 ## Some Nice WASD Templates
 
