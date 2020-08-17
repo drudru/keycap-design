@@ -18,7 +18,7 @@ This is the font that people typically see on a GMK render.
 Note: it doesn't have the symbols for the modifiers (Shift, Tab, etc.)
 
 If you need a WASD template for the vintage Cherry legends. That is available in this repo as
-vintage_cherry.pdf. You can easily import this into inkscape.
+vintage_cherry.pdf. I got this from WASD keyboards (thank you support person). You can easily import this into inkscape.
 
 ## Gorton Legends
 
