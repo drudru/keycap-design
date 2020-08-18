@@ -1,7 +1,6 @@
 # keycap-design
 Links to resources for Keycap Design
 
-
 My initial goal was to find out if keycap designers were using a template for all the nice GMK keysets that people render.
 I wanted to then use that template for my own WASD keycap design. I never did find that 'one template', but I did find a lot of
 interesting information. Hopefully the information I share here will save some others some time.
@@ -26,7 +25,7 @@ Open Gorton https://github.com/dakotafelder/open-gorton
 An open-source font based on Signature Plastics' Gorton Modified. Made for the keycap designer community.
 
 
-## Keycap Rendering
+## Keycap Rendering DIY
 
 https://www.dakotafelder.com/keycap-designer-resources
 This is a set of blender files that are a **fantastic** resource for doing a base kit render.
@@ -65,4 +64,13 @@ https://www.thingiverse.com/thing:2783650
 Here is the original reddit post announcing them.
 https://old.reddit.com/r/MechanicalKeyboards/comments/2gu236/i_made_a_cuztomizable_3d_printable_cherry_mx/
 
+## Keycap Rendering Services
+
+https://github.com/CQCumbers/kle_render
+This takes the json from the awesome http://www.keyboard-layout-editor.com/.
+It renders a very basic PNG, but it is open source, you may be able to coax a blender file out of it.
+
+https://keycaprenders.com/
+They have templates for keys and keys+keyboards. You pick the basic color scheme and then
+they email you the render.
 
