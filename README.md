@@ -72,5 +72,5 @@ It renders a very basic PNG, but it is open source, you may be able to coax a bl
 
 https://keycaprenders.com/
 They have templates for keys and keys+keyboards. You pick the basic color scheme and then
-they email you the render.
+they email you the PNG of the render.
 
