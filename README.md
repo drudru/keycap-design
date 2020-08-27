@@ -58,6 +58,16 @@ https://github.com/getclacking/1971-wasd
 https://github.com/Teggy/APL-PragmataPro-keyboard
 This is another nicely done template for those who like the language APL.
 
+## Keycap Colors
+
+Signature Plastics reference colors: https://deskthority.net/wiki/Signature_Plastics_ABS_colours
+
+GMK reference colors: https://deskthority.net/wiki/GMK_colours
+
+Photo of GMK Keycaps with their color codes: https://matrixzj.github.io/docs/gmk-keycaps/ColorCodes/
+
+WASD Keycaps reference colors: https://www.wasdkeyboards.com/designer-text-color
+
 I have a photo of the WASD keycaps in this archive: https://github.com/drudru/keycap-design/blob/master/wasd-keycaps-colors.jpg
 
 ## 3d Printing Keycaps
