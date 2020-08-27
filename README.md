@@ -58,6 +58,8 @@ https://github.com/getclacking/1971-wasd
 https://github.com/Teggy/APL-PragmataPro-keyboard
 This is another nicely done template for those who like the language APL.
 
+I have a photo of the WASD keycaps in this archive: https://github.com/drudru/keycap-design/blob/master/wasd-keycaps-colors.jpg
+
 ## 3d Printing Keycaps
 
 KeyV2: Parametric Mechanical Keycap Library
