@@ -34,6 +34,10 @@ He used to have a render in a board, but he took that down.
 https://www.reddit.com/r/keycapdesigners/comments/dzg7rb/heres_a_2_minute_tutorial_on_how_to_render/
 This is a nice short tutorial on how to use the dakota felder blender templates by Mr. Felder himself.
 
+Here are some direct links to his videos: 
+- https://www.youtube.com/watch?v=PtAHb60JvfY 
+- https://www.youtube.com/watch?v=OL_4GyO1glk
+
 https://www.reddit.com/r/keycapdesigners/comments/fwnyxy/looking_for_cherrygmk_models_with_hiragana_here/
 Diehambre has posted blender and obj models.
 
